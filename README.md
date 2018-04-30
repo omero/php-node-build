@@ -1,5 +1,5 @@
 # php-node-build
-Docker images with php and nodejs for build development pruposes
+Docker images with php and nodejs for build development purposes
 
 This Alpine based image was create to run [Particle](https://github.com/phase2/particle) (Last version v10.0.0-beta.3) on a local docker environment with `docker-compose` this image has:
 
